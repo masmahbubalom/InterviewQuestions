@@ -2,6 +2,9 @@
 
 **ML : ** 100 Machine Learning Interview Questions[https://github.com/masmahbubalom/InterviewQuestions/tree/main/ML%20Interview%20Question]
 
+100 Machine Learning Interview Questions [https://github.com/masmahbubalom/InterviewQuestions/tree/main/ML%20Interview%20Question](https://mylink.com "Click here to see the questions!")
+
+
 **Contributions are most welcomed.**
 
   - Fork the repository.

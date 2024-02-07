@@ -3,11 +3,11 @@
 
 
 
-#1. What is machine learning?
+*1. What is machine learning?
   
-#2. Explain the types of machine learning.
+*2. Explain the types of machine learning.
     
-#3. What is the difference between supervised and unsupervised learning?
+3. What is the difference between supervised and unsupervised learning?
     
 4. Can you give examples of supervised and unsupervised learning algorithms?
     

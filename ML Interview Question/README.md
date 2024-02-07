@@ -3,7 +3,7 @@
 
 
 
-#####1. What is machine learning?
+##### 1. What is machine learning?
 **Answer:** Machine learning is a subset of artificial intelligence (AI) that focuses on developing algorithms and techniques that enable computers to learn from data and improve their performance over time without being explicitly programmed. It involves the creation of models that can automatically learn patterns and make predictions or decisions based on input data. Machine learning algorithms are trained using labeled or unlabeled data to identify underlying patterns or structures and generalize from the examples provided. The main goal of machine learning is to enable computers to perform tasks or make predictions accurately without being explicitly programmed for every possible scenario, thus allowing for automation and adaptation to new data or circumstances.
 
 2. Explain the types of machine learning.

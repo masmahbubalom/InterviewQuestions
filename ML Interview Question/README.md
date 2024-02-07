@@ -157,9 +157,9 @@
     
 77. Explain PyTorch.
     
-78.What is the role of activation functions in neural networks?
+ 78.What is the role of activation functions in neural networks?
     
-79.Give examples of activation functions.
+ 79.Give examples of activation functions.
     
 80. What is backpropagation?
     
@@ -193,12 +193,12 @@
     
 95. What are some applications of autoencoders?
     
-96.Explain the concept of generative models.
+ 96.Explain the concept of generative models.
     
 97. What is unsupervised learning?
     
 98. Give examples of unsupervised learning algorithms.
     
-99.Explain the concept of semi-supervised learning.
+ 99.Explain the concept of semi-supervised learning.
     
 100. What are some challenges in deploying machine learning models to production?

@@ -1,4 +1,4 @@
-# **50 Deep Learning interview questions for a junior/fresher level job:**
+# **50 Deep Learning interview questions for a junior/fresher level job**
 
 
 

@@ -1,4 +1,4 @@
-# **100 Machine Learning interview questions for a junior/fresher level job**
+# **100 Machine Learning interview questions 2024**
 
 
 

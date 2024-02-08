@@ -1,4 +1,4 @@
-# **50 NLP (Natural Language Processing) interview questions for a junior/fresher level job:**
+# **50 NLP (Natural Language Processing) interview questions 2024**
 
 
 

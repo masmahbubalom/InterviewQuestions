@@ -1,4 +1,4 @@
-### This collection of interview questions will help you in your next Data Science, Artificial Intelligence, Machine Learning, Deep Learning job.
+### This collection of interview questions will help you in your next Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision job.
 
 ## List of Topic
 

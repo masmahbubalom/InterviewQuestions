@@ -536,7 +536,7 @@ These algorithms are used to find patterns and structures within data without th
 ### 100. What are some challenges in deploying machine learning models to production?
 **Answer:** Deploying machine learning models to production presents several challenges, including:
 
--1. **Scalability**: Ensuring that the deployed model can handle large volumes of data and concurrent requests efficiently.
+- **Scalability**: Ensuring that the deployed model can handle large volumes of data and concurrent requests efficiently.
 
 - **Infrastructure**: Setting up and maintaining the necessary infrastructure for hosting and serving the model, including considerations for scalability, reliability, and cost.
 
